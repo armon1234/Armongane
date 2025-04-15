@@ -1,0 +1,17 @@
+body {
+    background-image:url(800x-26-1.webp);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+button:active {
+  background-color: #45a049; 
+}
+
+
+ button:active{
+    background-image:81ArkFnDiaL.png ;
+ }
